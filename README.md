@@ -1,9 +1,6 @@
 ## 2021/10/12
 
 - 👋 Hi, I’m @Valentina-Zhang.
-- 👀 I’m interested in studying everything I'm interested in.
-- 🌱 I’m currently learning everything I'm interested in.
-- 💞️ I’m looking to collaborate on everything I'm interested in.
 - 📫 My email: 1746665672@qq.com
 
 <!---
