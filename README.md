@@ -1,7 +1,6 @@
-## 2021/10/12
 
 - 👋 Hi, I’m @Valentina-Zhang.
-- 📫 My email: 1746665672@qq.com
+- 📫 My email: zhangwt23@mails.tsinghua.edu.cn
 
 <!---
 Valentina-Zhang/Valentina-Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
